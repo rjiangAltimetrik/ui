@@ -31,7 +31,7 @@
     "gulp-sourcemaps": "^2.6.5"
   },
   "dependencies": {
-    "RWD-Table-Patterns": "^5.3.3",
+    "RWD-Table-Patterns": "latest",
     "alertifyjs": "^1.12.0",
     "apexcharts": "^3.10.1",
     "bootstrap": "4.4.1",
